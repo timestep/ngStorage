@@ -1,6 +1,6 @@
 {
     "name": "ngstorageken",
-    "main": "./ngStorageKen.js",
+    "main": "./ngStorage.js",
     "keywords": [
         "angular",
         "cookie",
